@@ -582,7 +582,7 @@
     "meaning": "Can keep secrets. (Set 4)",
     "id": 65,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "気が短い",
@@ -591,7 +591,7 @@
     "meaning": "Impatient temperament. (Set 4)",
     "id": 66,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "腹が立つ",
@@ -635,7 +635,7 @@
     "english": "Pull someone back",
     "meaning": "Hold someone back. (Set 4)",
     "id": 71,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
