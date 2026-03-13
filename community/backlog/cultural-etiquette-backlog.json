@@ -645,7 +645,7 @@
     "note": "先に謝罪が基本。",
     "id": 72,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "写真撮影（寺社） 4",
@@ -662,7 +662,7 @@
     "dont": "初対面でタメ口を使う",
     "note": "距離感が縮まるまでは敬語が無難。",
     "id": 74,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
