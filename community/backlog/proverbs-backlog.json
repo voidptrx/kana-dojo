@@ -681,7 +681,7 @@
     "english": "After rain, the ground hardens",
     "meaning": "Adversity can strengthen relationships",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 77,
@@ -770,7 +770,7 @@
     "romaji": "Nen ni wa nen wo ireyo",
     "english": "Put care into care",
     "meaning": "Double-check; be extra careful",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -780,7 +780,7 @@
     "english": "Regret does not stand before",
     "meaning": "It's too late for regrets",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 88,
@@ -789,7 +789,7 @@
     "english": "You can't shake a sleeve you don't have",
     "meaning": "You can't give what you don't have",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 89,
@@ -797,7 +797,7 @@
     "romaji": "Hito no furi mite waga furi naose",
     "english": "Watch others and correct yourself",
     "meaning": "Learn from others' behavior",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -806,7 +806,7 @@
     "romaji": "Keizoku wa chikara nari",
     "english": "Continuation is power",
     "meaning": "Consistency leads to strength",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -815,7 +815,7 @@
     "romaji": "Ame futte ji katamaru",
     "english": "After the rain, the ground hardens",
     "meaning": "Hard times make relationships stronger",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -825,7 +825,7 @@
     "english": "A rolling stone gathers no moss",
     "meaning": "Constant change prevents stagnation",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 93,
