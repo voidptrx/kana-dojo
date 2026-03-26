@@ -551,6 +551,12 @@
     "meaning": "Eat in moderation"
   },
   {
+    "japanese": "口は禍の元",
+    "romaji": "Kuchi wa wazawai no moto",
+    "english": "The mouth is the source of misfortune",
+    "meaning": "Careless words cause trouble"
+  },
+  {
     "japanese": "口は災いの元",
     "romaji": "Kuchi wa wazawai no moto",
 "english": "The mouth is the source of misfortune",    "meaning": "Careless words cause trouble"
@@ -566,6 +572,13 @@
   "romaji": "Nou aru taka wa tsume wo kakusu",
   "english": "A skilled hawk hides its talons",
   "meaning": "True skill is modest"
+},
+  {
+  "japanese": "口は禍の元",
+  "romaji": "Kuchi wa wazawai no moto",
+  "english": "The mouth is the source of misfortune",
+  "meaning": "Careless words cause trouble"
 }
+  
 ]
   

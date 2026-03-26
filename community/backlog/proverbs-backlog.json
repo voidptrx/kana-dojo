@@ -1517,8 +1517,10 @@
     "romaji": "Kuchi wa wazawai no moto",
     "english": "The mouth is the source of misfortune",
     "meaning": "Careless words cause trouble",
-    "completed": false,
-    "issued": true
+    "completed": true,
+    "issued": false,
+    "completedBy": "22f2000650",
+    "completedPR": 10296
   },
   {
     "id": 170,
