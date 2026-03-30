@@ -417,6 +417,17 @@
     "correctAnswerIndex": 0
   },
   {
+  "question": "What is the Japanese art of the traditional tea ceremony called (also known as Chanoyu)?",
+  "difficulty": "easy",
+  "answers": [
+    "Sado",
+    "Ikebana",
+    "Kaiseki",
+    "Bento"
+    ],
+    "correctIndex": 0
+  },
+  {
   "question": "Which of these is a Japanese noodle dish served in broth?",
   "difficulty": "easy",
   "answers": [
@@ -426,5 +437,103 @@
     "Yakitori"
   ],
   "correctIndex": 0
-  }
+  },
+  {
+    "question": "What is the Japanese term for a traditional tea ceremony?",
+    "difficulty": "easy",
+    "answers": [
+      "Sado",
+      "Ikebana",
+      "Kaiseki",
+      "Bento"
+    ],
+    "correctIndex": 0
+  },
+  {
+  "question": "Which Japanese island is home to the city of Sapporo? (Community variation 5)",
+  "difficulty": "easy",
+  "answers": [
+    "Honshu",
+    "Hokkaido",
+    "Shikoku",
+    "Kyushu"
+  ],
+  "correctIndex": 1
+},
+{
+  "question": "What is the Japanese term for a traditional wooden sandal?",
+  "difficulty": "easy",
+  "answers": [
+    "Geta",
+    "Zori",
+    "Waraji",
+    "Tabi"
+  ],
+  "correctIndex": 0
+},
+  {
+  "question": "Which city is famous for the Peace Memorial Park?",
+  "difficulty": "easy",
+  "answers": [
+    "Hiroshima",
+    "Osaka",
+    "Tokyo",
+    "Fukuoka"
+  ],
+  "correctIndex": 0
+},
+  {
+  "question": "What is the Japanese term for a traditional inn?",
+  "difficulty": "easy",
+  "answers": [
+    "Ryokan",
+    "Minshuku",
+    "Izakaya",
+    "Yatai"
+  ],
+  "correctIndex": 0
+},{
+  "question": "Which Japanese art form involves arranging flowers? (Community variation 43)",
+  "difficulty": "easy",
+  "answers": [
+    "Ikebana",
+    "Origami",
+    "Ukiyo-e",
+    "Shodo"
+  ],
+  "correctIndex": 0
+},
+  {
+  "question": "What is the Japanese word for "goodbye"? (Community variation 32)",
+  "difficulty": "easy",
+  "answers": [
+    "Sayonara",
+    "Konnichiwa",
+    "Arigatou",
+    "Oyasumi"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "What is the Japanese word for \"goodbye\"? (Community variation 32)",
+  "difficulty": "easy",
+  "answers": [
+    "Sayonara",
+    "Konnichiwa",
+    "Arigatou",
+    "Oyasumi"
+  ],
+  "correctIndex": 0
+},
+  {
+  "question": "Which animal is famously associated with Inari shrines in Japan?",
+  "difficulty": "easy",
+  "answers": [
+    "Fox",
+    "Crane",
+    "Turtle",
+    "Deer"
+  ],
+  "correctIndex": 0
+}
 ]

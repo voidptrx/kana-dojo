@@ -1,7 +1,7 @@
-﻿'use client';
+'use client';
 import { Fragment, lazy, Suspense, useState, useEffect } from 'react';
 import { Link } from '@/core/i18n/routing';
-import Banner from './Banner';
+import KanaDojoBanner from './KanaDojoBanner';
 import Info from '@/shared/components/Menu/Info';
 import NightlyBanner from '@/shared/components/Modals/NightlyBanner';
 import {
@@ -13,11 +13,12 @@ import {
   Heart,
   Sparkle,
   FileDiff,
+  CircleHelp,
 } from 'lucide-react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDiscord, faGithub } from '@fortawesome/free-brands-svg-icons';
 import clsx from 'clsx';
-import { useClick } from '@/shared/hooks/useAudio';
+import { useClick } from '@/shared/hooks/generic/useAudio';
 import { useThemePreferences } from '@/features/Preferences';
 import useDecorationsStore from '@/shared/store/useDecorationsStore';
 import { useMediaQuery } from 'react-responsive';
@@ -39,7 +40,7 @@ const MainMenu = () => {
       'border-b-8 border-(--secondary-color-accent) group-hover:border-(--main-color-accent)',
       'transition-all duration-200',
       'active:border-b-0 active:translate-y-[6px] active:mb-[6px]',
-      'animate-float',
+      'motion-safe:animate-float',
       delay,
       `[--float-distance:${floatDistance}]`,
     );
@@ -101,6 +102,7 @@ const MainMenu = () => {
     { name: 'security', href: '/security', icon: FileLock2 },
     { name: 'patch notes', href: '/patch-notes', icon: FileDiff },
     { name: 'credits', href: '/credits', icon: Sparkle },
+    { name: 'about', href: '/about', icon: CircleHelp },
   ];
 
   const mobileLabelInset = 'pl-[max(30%,calc(50%-5.5rem))]';
@@ -165,7 +167,7 @@ const MainMenu = () => {
         )}
       >
         <div className='flex w-full flex-row items-center justify-between gap-2 px-1'>
-          <Banner />
+          <KanaDojoBanner />
           <div className='flex w-1/2 flex-row justify-end gap-2 md:w-1/3'>
             {theme === 'dark' ? (
               <Moon
